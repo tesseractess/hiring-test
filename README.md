@@ -25,9 +25,9 @@ As stated roles focus on front-end and some focus on back-end. Don't worry about
 ## The test
 
 1. Create a repo under your github account - public or private is your choice.
-2. [forecast.solar](https://doc.forecast.solar/start) has a public api that doesn't require signing up.
+2. [forecast.solar](https://doc.forecast.solar/start) has a public api that doesn't require signing up. 
 With any of the tools listed above create a simple webpage that:
-3. Has a webform to collect the required input and create a get request to the api.
+3. Has a webform to collect the required input and create a get request to the `estimate` api.
 4. Accept the response and then format it so that it is presentable to non-technical person.
-5. Also add a `next-steps.md` file to explain what you might to next to improve your solution. 
+5. Also add a `next-steps.md` file to explain what you might to next to improve your solution and explain how the solution can be checked out and run. 
 5. Once this is complete invite `nigeljames-tess` to be a collaborator in the repository
