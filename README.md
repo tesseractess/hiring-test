@@ -3,7 +3,7 @@
 ## About Tesseract ESS 
 We are an innovative "Clean Energy as a Service" startup based in Newcastle, NSW, Australia. 
 
-Our main website is www.tesseractess.com.au - check out 
+Our main website is www.tesseractess.com.au . 
 
 ## Hiring
 
