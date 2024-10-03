@@ -29,5 +29,5 @@ As stated roles focus on front-end and some focus on back-end. Don't worry about
 With any of the tools listed above create a simple webpage that:
 3. Has a webform to collect the required input and create a get request to the `estimate` api.
 4. Accept the response and then format it so that it is presentable to non-technical person.
-5. Also add a `next-steps.md` file to explain what you might to next to improve your solution and explain how the solution can be checked out and run. 
+5. Also add a `next-steps.md` file to explain what you might improve next or how you might use other api endpoints. Also explain how the solution can be cloned and run. 
 5. Once this is complete invite `nigeljames-tess` to be a collaborator in the repository
