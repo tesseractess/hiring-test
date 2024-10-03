@@ -16,7 +16,7 @@ who can get into our Newcastle office 3 days a week.
 You may have landed here by browsing or more likely you have been asked to come here to complete this test.
 
 ## Test motivation
-We are looking to see your skills with git and also design, vue, solidjs, apis, django, FastAPI, Flask or whatever else is in your tool kit. 
+We are looking to see your skills with git and some of design, vue, solidjs, apis, django, FastAPI, Flask or whatever else is in your tool kit. 
 
 We are not looking for you to spend ages on it, 4 hours is probably a good upper limit. We appreciate you may have an existing job and a life. 
 
