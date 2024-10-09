@@ -20,7 +20,7 @@ We are looking to see your skills with git and some of design, vue, solidjs, api
 
 We are not looking for you to spend ages on it, 4 hours is probably a good upper limit. We appreciate you may have an existing job and a life. 
 
-As stated roles focus on front-end and some focus on back-end. Don't worry about the part of the stack that are not your strenth. Show us what you can do. 
+As stated roles focus on front-end and some focus on back-end. Don't worry about the part of the stack that are not your strength. Show us what you can do. 
 
 ## The test
 
